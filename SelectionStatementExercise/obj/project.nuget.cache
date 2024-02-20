@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "F3BcfxWSPVg7YSs58GFsOVelsigHbRsuxXVNsxV7w7URP0cd6tCACavDkBDNouPp+8EtMsIuu98OA3DsFZd5sg==",
+  "dgSpecHash": "LVVfdgKrU6CqfrgbAcwKRJTzoPCMkeSXcLI0a7Iyl0191+aHKf3et6OGY+JW62f6vFNC23wedz7cAIOKrShEbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementExercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Rich Rodi\\Desktop\\repos\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
